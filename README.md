@@ -64,8 +64,7 @@ O projeto envolveu o ciclo completo de ciência de dados, incluindo:
 ---
 
 ## 📚 Contexto acadêmico
-
-- Universidade Católica de Brasília – UCB  
+ 
 - Ciência de Dados / Aprendizado de Máquina — 2025  
 - Projeto de aplicação prática em plataformas de competição de dados.
 
